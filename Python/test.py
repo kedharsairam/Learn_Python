@@ -1,2 +1,3 @@
-name = input("What is your name? ")
-print("Hello, " + name+"!")
+n = int(input("Height: "))
+for i in range(n):
+    print("#")
